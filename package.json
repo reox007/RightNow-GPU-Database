@@ -1,0 +1,23 @@
+{
+  "name": "gpu-database",
+  "version": "1.0.0",
+  "description": "Comprehensive GPU specifications database for AI and GPU kernel development",
+  "author": "RightNow AI <hello@rightnowai.co>",
+  "license": "Apache-2.0",
+  "homepage": "https://www.rightnowai.co",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RightNowAI/gpu-database.git"
+  },
+  "keywords": [
+    "gpu",
+    "nvidia",
+    "cuda",
+    "amd",
+    "intel",
+    "specifications",
+    "database",
+    "machine-learning",
+    "deep-learning"
+  ]
+}
